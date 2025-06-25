@@ -50,7 +50,7 @@ SI tension < 90                → Hypotension
 ## 🖥️ Lancer localement
 
 ```bash
-git clone https://github.com/monprojet/medibot-rt
+git clone https://github.com/EJM0101/medibot-rt
 cd medibot-rt
 pip install -r requirements.txt
 python app.py
